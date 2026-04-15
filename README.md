@@ -1,4 +1,7 @@
-# Cybersecurity
-Title: Virtualization and Connectivity
+# My 90-Day Cybersecurity Sprint 🛡️
+Building technical skills to transition from CSE Graduate to Security Professional.
 
-Content: Successfully deployed a Kali Linux enviroment and established an encrypted SSH connection to remote server for security testing
+## 🚀 Progress Log
+### Day 1: Setup & Connectivity
+- Installed Kali Linux in VirtualBox.
+- Established first SSH connection to OverTheWire servers.
